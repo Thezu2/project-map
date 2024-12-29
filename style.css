@@ -1,0 +1,12 @@
+body{
+    background-image: url(bg.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.character{
+    background-color: aqua;
+            box-shadow: 0px 0px 10px 0px rgb(0, 0, 0) ;
+            margin: auto;
+            padding: 10px 10px 10px 20px;
+}
